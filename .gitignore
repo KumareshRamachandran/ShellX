@@ -18,6 +18,7 @@ shellx
 *.swp
 *.swo
 *~
+docs/prep
 
 # OS
 .DS_Store
